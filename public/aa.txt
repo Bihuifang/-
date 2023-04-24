@@ -1,0 +1,21 @@
+{
+list:[
+  {
+    id:1,
+    awardsName: '一等奖',
+    giftNum: '3',
+    giftName: '平板',
+  },
+  {
+    id:2,
+    awardsName: '二等奖',
+    giftNum: '5',
+    giftName: '电视机',
+  },
+  {
+    id:3,
+    awardsName: '三等奖',
+    giftNum: '20',
+    giftName: '洗衣机',
+  },
+]}
